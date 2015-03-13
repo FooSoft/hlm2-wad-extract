@@ -2,7 +2,8 @@
 
 This application is a tool to extract the asset data used in the newly released [Hotline Miami 2: Wrong
 Humber](https://en.wikipedia.org/wiki/Hotline_Miami_2:_Wrong_Number) game. You can download or clone the latest version
-from its [GitHub project page](https://github.com/FooSoft/hlm2-wad-extract).
+from the [GitHub project page](https://github.com/FooSoft/hlm2-wad-extract). Although it was developed on Linux, it
+should work fine on other platforms.
 
 After purchasing and thoroughly enjoying this title, I thought that I would like to listen to the excellent soundtrack
 while coding. I was slightly disappointed when I discovered that the music data was not simply included in the install
@@ -35,7 +36,7 @@ optional arguments:
 
 For example, in order to extract the game's music files only, you could execute the following command:
 
-`./parse.py --pattern "*.ogg" --output test hlm2_data_desktop.wad`
+`./parse.py --pattern "*.ogg" --output hlm2_data_desktop.wad`
 
 While I expect this utility to be trivial for all to use, let me know if you encounter any difficulties or unexpected
 behavior.
