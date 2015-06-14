@@ -36,7 +36,7 @@ optional arguments:
 
 For example, in order to extract the game's music files only, you could execute the following command:
 
-`./parse.py --pattern "*.ogg" --output hlm2_data_desktop.wad`
+`./parse.py --pattern "*.ogg" hlm2_data_desktop.wad`
 
 While I expect this utility to be trivial for all to use, let me know if you encounter any difficulties or unexpected
 behavior.
