@@ -1,8 +1,8 @@
 # HLM2-Wad-Extract #
 
-This application is a tool to extract the asset data used in the newly released [Hotline Miami 2: Wrong
+This application extracts asset data packaged with the newly released [Hotline Miami 2: Wrong
 Humber](https://en.wikipedia.org/wiki/Hotline_Miami_2:_Wrong_Number) game. Although it was developed on Linux to run on
-Linux, it should work on other platforms without problems.
+Linux, it should work on other platforms without any modification.
 
 ## Motivation ##
 
