@@ -1,9 +1,9 @@
-# HLM2-Wad-Extract #
+# HLM2-Wad-Extract
 
 This tool extracts binary asset data (including the soundtrack in OGG format) packaged with the game [Hotline Miami 2:
 Wrong Humber](https://en.wikipedia.org/wiki/Hotline_Miami_2:_Wrong_Number).
 
-## Usage ##
+## Usage
 
 Execute `extract.py` script with the `-h` option for a description of available options ([Python
 2.7](https://www.python.org/download/releases/2.7/) is required).
