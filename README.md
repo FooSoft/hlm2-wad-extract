@@ -1,3 +1,12 @@
+<!-- +++
+Area = "projects"
+GitHub = "hlm2-wad-extract"
+Layout = "page"
+Tags = ["hlm2-wad-extract", "hotline miami", "python", "mit license"]
+Description = "Asset extractor for Hotline Miami 2 WAD files."
+Collection = "ProjectsComplete"
++++ -->
+
 # HLM2-Wad-Extract
 
 This tool extracts binary asset data (including the soundtrack in OGG format) packaged with the game [Hotline Miami 2:
